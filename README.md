@@ -1,12 +1,12 @@
 # 🛒 Ecommerce Zosh Bazzar Application
 
-A full-stack **Ecommerce Zosh Bazzar Application** built with **Spring Boot**, enabling multiple vendors to manage products while users can browse, purchase, and manage their orders seamlessly.
+A full-stack **Ecommerce Zosh Bazzar Application** built with **Spring Boot**, enabling multiple sellers to manage products while users can browse, purchase, and manage their orders seamlessly.
 
 ---
 
 ## 📌 Project Overview
 
-This application provides a complete e-commerce ecosystem with three distinct roles — **Admin**, **Customer**, and **User** — each with dedicated features and secure access control using JWT-based authentication.
+This application provides a complete e-commerce ecosystem with three distinct roles — **Admin**, **Sellers**, and **User** — each with dedicated features and secure access control using JWT-based authentication.
 
 ---
 
@@ -23,10 +23,10 @@ This application provides a complete e-commerce ecosystem with three distinct ro
 - View Dashboard Analytics
 - Full platform control
 
-### 🏪 Customer
+### 🏪 Sellers
 - Add & manage own products
 - Track and manage orders
-- Dedicated vendor dashboard
+- Dedicated sellers dashboard
 
 ---
 
@@ -48,7 +48,7 @@ This application provides a complete e-commerce ecosystem with three distinct ro
 ## 📂 Project Structure
 
 ```
-Ecommerce Multivender/
+Ecommerce Zosh Bazzar/
 ├── ecommerce-multivender/
 │   ├── .mvn/
 │   ├── src/
@@ -83,7 +83,7 @@ Ecommerce Multivender/
 - **JWT-based** stateless authentication
 - **Role-based access control** with 3 roles:
   - `ROLE_ADMIN` — Full platform access
-  - `ROLE_CUSTOMER` — Product & order management
+  - `ROLE_SELLER` — Product & order management
   - `ROLE_USER` — Shopping & order tracking
 - All secured endpoints require a valid Bearer token
 
@@ -102,7 +102,8 @@ Ecommerce Multivender/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Shyam97099/ecommerce-multivender.git
+git clone https://github.com/Shyam97099/Zosh-Bazzar.git
+
 cd ecommerce-multivender
 ```
 

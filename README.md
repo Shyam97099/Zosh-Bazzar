@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Multivendor Application
+# 🛒 Ecommerce Zosh Bazzar Application
 
 A full-stack **Ecommerce Multivendor Application** built with **Spring Boot**, enabling multiple vendors to manage products while users can browse, purchase, and manage their orders seamlessly.
 
@@ -340,4 +340,4 @@ Use **Postman** to test the REST APIs.
 
 ## ⭐ Support
 
-If you find this project helpful, please give it a ⭐ on [GitHub](https://github.com/Shyam97099/ecommerce-multivender)!
+If you find this project helpful, please give it a ⭐ on [GitHub](https://github.com/Shyam97099/Zosh Bazzar)!

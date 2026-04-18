@@ -1,6 +1,6 @@
-# 🛒 Zosh Bazzaar Ecommerce Application
+# 🛒 ZoshBazzaar Ecommerce Application
 
-A full-stack **Zosh Bazzaar Ecommerce Application** built with **Spring Boot**, enabling multiple sellers to manage products while users can browse, purchase, and manage their orders seamlessly.
+A full-stack **ZoshBazzaar Ecommerce Application** built with **Spring Boot**, enabling multiple sellers to manage products while users can browse, purchase, and manage their orders seamlessly.
 
 ---
 
@@ -341,4 +341,4 @@ Use **Postman** to test the REST APIs.
 
 ## ⭐ Support
 
-If you find this project helpful, please give it a ⭐ on [GitHub](https://github.com/Shyam97099/Zosh-Bazzar)!
+If you find this project helpful, please give it a ⭐ on [GitHub](https://github.com/Shyam97099/ZoshBazzar)!

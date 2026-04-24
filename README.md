@@ -1,6 +1,6 @@
-# 🛒 ZoshBazzaar Ecommerce Application
+# 🛒 ZoshBazaar Ecommerce Application
 
-A full-stack **ZoshBazzaar Ecommerce Application** built with **Spring Boot**, enabling multiple sellers to manage products while users can browse, purchase, and manage their orders seamlessly.
+A full-stack **ZoshBazaar Ecommerce Application** built with **Spring Boot**, enabling multiple sellers to manage products while users can browse, purchase, and manage their orders seamlessly.
 
 ---
 
